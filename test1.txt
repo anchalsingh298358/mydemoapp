@@ -1,0 +1,1 @@
+this time I  am trying to merge commit through git bash instead of Git GUI.
